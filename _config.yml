@@ -1,6 +1,6 @@
-title: Heng Ma's Blog
+title: Heng Ma
 description: >-
-  Thoughts on tech, pens, and everything in between.
+  Researcher & Engineer. Exploring AI, systems, and everything in between.
 baseurl: ""
 url: "https://hengma1001.github.io"
 
@@ -14,6 +14,8 @@ minima:
 
 # Navigation
 nav_pages:
+  - publications.md
+  - blog/index.html
   - about.md
 
 # Author

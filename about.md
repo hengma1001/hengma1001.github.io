@@ -4,6 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm **Heng Ma**. I'm based in Troy, Michigan.
+## About Me
 
-I'm a fountain pen collector and tech enthusiast. This blog is where I share thoughts on whatever catches my interest.
+I'm **Heng Ma**, a researcher and engineer based in Troy, Michigan.
+
+My work sits at the intersection of machine learning and systems — building practical tools and exploring new ideas in AI.
+
+### Interests
+
+- Machine Learning & AI Systems
+- Open Source Software
+- [Add your interests]
+
+### Background
+
+_[Add your education and career background here.]_
+
+### Contact
+
+- **GitHub:** [github.com/hengma1001](https://github.com/hengma1001)
+- **Email:** your@email.com
