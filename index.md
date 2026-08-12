@@ -3,27 +3,40 @@ layout: home
 ---
 
 ## Heng Ma
-**Researcher & Engineer**
+**Research Scientist, Argonne National Laboratory**
 
-I'm a researcher working at the intersection of machine learning and systems. My work focuses on [research area 1], [research area 2], and [research area 3].
+I'm a computational researcher at the intersection of machine learning, physical chemistry, and biophysics. My work focuses on AI-driven multiscale simulations, high-performance computing for scientific discovery, and computational drug discovery.
 
-Currently based in **Troy, Michigan**.
+[📊 Google Scholar](https://scholar.google.com/citations?user=SZHQufoAAAAJ&hl=en) · [🔗 GitHub](https://github.com/hengma1001)
+
+---
+
+### Research Metrics
+
+| Citations | h-index | i10-index | Publications |
+|-----------|---------|-----------|--------------|
+| 1,780+ | 21 | 31 | 20+ |
+
+---
+
+### Research Areas
+
+- **AI-driven Molecular Simulations** — Combining deep learning with physics-based models for biomolecular dynamics
+- **Computational Drug Discovery** — Virtual screening and structure-based drug design for infectious diseases
+- **High-Performance Computing** — Scalable infrastructure for scientific AI and multiscale modeling
+- **Biophysics & Structural Biology** — Understanding protein dynamics, membrane systems, and molecular interactions
 
 ---
 
 ### Highlights
 
-- Published research on [topic]
-- Building tools for [domain]
-- Open source contributor
+- Led AI-driven multiscale simulation studies on SARS-CoV-2 spike protein dynamics and respiratory aerosol transmission
+- Developed genome-scale language models for viral evolutionary dynamics
+- Built HPC infrastructure enabling 100–1000× faster biomolecular simulations
+- Contributed to COVID-19 drug discovery pipelines combining ML and physics-based methods
 
 ---
 
 ### Latest Work
 
-Check out my [publications](/publications/) for papers and technical reports, or browse my [blog](/blog/) for longer-form notes and project updates.
-
-### Connect
-
-- [GitHub](https://github.com/hengma1001)
-- [Email](mailto:your@email.com)
+Browse my [publications](/publications/) for the full list, or check out my [blog](/blog/) for longer-form notes and project updates.
