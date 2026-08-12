@@ -11,13 +11,7 @@ I'm a computational researcher at the intersection of machine learning, physical
 
 ---
 
-### Research Metrics
 
-| Citations | h-index | i10-index | Publications |
-|-----------|---------|-----------|--------------|
-| 1,780+ | 21 | 31 | 20+ |
-
----
 
 ### Research Areas
 
