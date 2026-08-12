@@ -1,0 +1,31 @@
+title: Heng Ma's Blog
+description: >-
+  Thoughts on tech, pens, and everything in between.
+baseurl: ""
+url: "https://hengma1001.github.io"
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# Minima theme settings
+minima:
+  skin: dark
+
+# Navigation
+nav_pages:
+  - about.md
+
+# Author
+author: Heng Ma
+
+# Social
+github_username: hengma1001
+
+# Exclude from processing
+exclude:
+  - .git
+  - .github
+  - Gemfile*
+  - node_modules
+  - vendor
