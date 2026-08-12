@@ -17,6 +17,7 @@ minima:
 
 # Navigation
 nav_pages:
+  - cv.md
   - publications.md
   - blog/index.html
   - about.md
